@@ -1,0 +1,85 @@
+/*通用样式*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.all{
+	width: 640px;
+	position: relative;
+	
+}
+
+.bg{
+	position: absolute;
+	top: -114px;
+}
+
+.pos{
+	position: absolute;
+	z-index: 10;
+}
+
+.aPos{
+	position: absolute;
+	z-index: 10;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.all .logo{
+
+	left: 56px;
+}
+
+.all .w{
+	top: 154px;
+
+}
+.all .shop{
+	top: 400px;
+}
+
+.all .hText{
+	top: 672px;
+}
+.all .part2{
+	top: 787px;
+	width: 613px;
+	height: 352px;
+}
+.all .part2 .kuang{
+	position: absolute;
+}
+.all .part2 .video{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+.all .part3{
+	top: 1190px;
+}
+.all .part4{
+	top: 1692px;
+}
+
+.all .part5{
+	top: 2290px;
+}
+
+.all .part6{
+	top: 2740px;
+}
+
+.all .part7{
+	top: 3195px;
+}
+.all .part8{
+	top: 3050px;
+}
+.all .bottom{
+	top: 4520px;
+}
